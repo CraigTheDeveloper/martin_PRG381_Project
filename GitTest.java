@@ -9,5 +9,8 @@ public class GitTest
         
         System.out.println("Change 2");
         //Working on develop branch
+
+        // Change from Craig
+        System.out.println("Hello from Craig");
     }
 }
